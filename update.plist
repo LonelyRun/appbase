@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://vaccer.coding.net/p/appbase/d/appBase/git/raw/master/WisdomERP.ipa?download=true</string>
+                        <string>https://github.com/LonelyRun/appbase/blob/main/WisdomERP.ipa?raw=true</string>
                     </dict>
                 </array>
                 <key>metadata</key>
